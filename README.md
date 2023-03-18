@@ -3,7 +3,7 @@
 
 <!-- Mi presentación-->
 <div id="header" align="center">
-  <img src="img/fergblogo.png" width="200"/>
+  <img src="img/fergblogo.png" width="450"/>
 </div>
 <h1 align="center"> Hi, there I'm Fer ✨ </h1>
 
@@ -24,7 +24,7 @@
 
 <!-- Skills and knowledge -->
 ## Skills 💻
- ![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linux,mysql,postgres,vscode,atom,blender,flask,git,java,py,latex&perline=7)
+ ![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linux,mysql,postgres,vscode,atom,blender,flask,git,java,py,latex)
  
 
  
