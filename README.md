@@ -47,7 +47,7 @@
 
 
 <!--My social media.-->
-##  Conecta conmigo 🤞
+##  Conecta conmigo 🫰
   <a href="https://www.linkedin.com/in/fergb/">
     <img src="https://skillicons.dev/icons?i=linkedin">
    </a>
