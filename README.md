@@ -5,7 +5,7 @@
 <div id="header" align="center">
   <img src="img/fergblogo.png" width="450"/>
 </div>
-<h1 align="center"> Hi, there I'm Fer ✨ </h1>
+<h1 align="center"> Hola, soy Fer ✨ </h1>
 
 
 ## Sobre mi👋
