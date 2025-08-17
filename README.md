@@ -42,12 +42,12 @@ I enjoy building clean, responsive, and user-friendly interfaces using modern fr
 - 👀 Anime and drama series lover
 <h3> 🌟 Current music faves </h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/52/Stray_Kids_-_5-Star.png" width="120" title="Stray Kids - 5-Star" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/74/Post_Human_NeX_GEn.png" width="120" title="BMTH - post human NeXGen" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/1e/Marina_%E2%80%94_Princess_of_Power_%28album_cover_artwork%29.png" width="120" title="Marina - Master of power" />
-  <img src="https://ibighit.com/txt/images/txt/discography/together/album-cover-shdw.png" width="120" title="TXT - Together" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Chromakopia_CD_cover.jpg/250px-Chromakopia_CD_cover.jpg" width="120" title="Tyler the creator - Chromakopia" />
-  <img src="https://i.scdn.co/image/ab67616d0000b273f24755716ee6789fa094112c" width="120" title="Illit - bomb" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/52/Stray_Kids_-_5-Star.png" width="100" title="Stray Kids - 5-Star" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/74/Post_Human_NeX_GEn.png" width="100" title="BMTH - post human NeXGen" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/1e/Marina_%E2%80%94_Princess_of_Power_%28album_cover_artwork%29.png" width="100" title="Marina - Master of power" />
+  <img src="https://ibighit.com/txt/images/txt/discography/together/album-cover-shdw.png" width="100" title="TXT - Together" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Chromakopia_CD_cover.jpg/250px-Chromakopia_CD_cover.jpg" width="100" title="Tyler the creator - Chromakopia" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f24755716ee6789fa094112c" width="100" title="Illit - bomb" />
 </p>
 
 
