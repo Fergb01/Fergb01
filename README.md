@@ -5,10 +5,10 @@
 <div id="header" align="center">
   <img src="img/fergblogo.png" width="450"/>
 </div>
-<h1 align="center"> Hola, soy Fer ✨ </h1>
+<h1 align="center"> Hi, there I'm Fer ✨ </h1>
 
 
-## Sobre mi👋
+## About me 👋
 
 
 - Actualmente trabajo en B-more como AMS trainee consultant. 👩‍💻
@@ -24,7 +24,7 @@
 
 <!-- Skills and knowledge -->
 ## Skills 💻
- ![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linux,mysql,postgres,vscode,atom,blender,flask,git,java,py,latex)
+ ![My Skills](https://skillicons.dev/icons?i=js,html,css,materialui,blender,react,figma,graphql,github,linux,mysql,vscode,atom,git,java,py,latex)
  
 
  
